@@ -40,11 +40,10 @@ ai-job-salary-predictor/
 ---
 
 ## 🤖 Models Tested
-| Model | MAE (USD) | R² |
-|---|---|---|
-| Linear Regression ✅ | ~16,200 | best |
-| Decision Tree | - | - |
-| Random Forest | - | - |
+
+| Linear Regression ✅ | 
+| Decision Tree | 
+| Random Forest | 
 
 The best performing model is **Linear Regression**.
 
