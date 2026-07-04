@@ -6,7 +6,7 @@ Ce projet a été réalisé dans le cadre de mon apprentissage en **Data Science
 
 L'objectif est de développer une application capable d'estimer le **salaire annuel (USD)** d'un professionnel du domaine **Data & Intelligence Artificielle** en fonction de plusieurs caractéristiques telles que le poste occupé, le niveau d'expérience, le pays, le type d'emploi, le mode de travail et la taille de l'entreprise.
 
-Le projet couvre l'ensemble du cycle de vie d'un projet de Data Science, depuis le nettoyage des données jusqu'au déploiement d'une interface interactive avec **Streamlit**.
+Le projet couvre l'ensemble du cycle de vie d'un projet de Data Science, depuis le nettoyage des données jusqu'a la réalisation d'une interface interactive avec **Streamlit**.
 
 ---
 
@@ -166,7 +166,7 @@ streamlit run app/app.py
 - Machine Learning
 - Évaluation de modèles
 - Développement d'applications avec Streamlit
-- Déploiement d'un projet Data Science
+
 
 ---
 
